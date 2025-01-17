@@ -18,3 +18,8 @@ Un equip de desenvolupament té el següent comportament
 ###1.4.En quines condicions es pot aplicar correctament el forecasting?
 
     Es cuando la empresa tiene suficientes datos para estimar lo que tarda cada equipo en trabajar y en realizar una tarea
+
+## 2: LeadTime Distribution
+
+   ![Equipo 2 estadistica 1](forecastingequipo2,1.png)
+   ![Equipo 2 estadistica 2](forecastingequipo2,2.png)
