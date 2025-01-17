@@ -1,8 +1,11 @@
 # Forecasting
 ## 1.Forecast development team
 Un equip de desenvolupament té el següent comportament
-    ![Equipo 1 estadistica 1](forecastingequipo1,1.png)
-    ![Equipo 1 estadistica 2](forecastingequipo1,2.png)
+    
+![Equipo 1 estadistica 1](forecastingequipo1,1.png)
+
+![Equipo 1 estadistica 2](forecastingteam1,2.png)
+
 ###1.1.Quina certesa tenim d’acabar la tasca en 5 dies?
 
     En 5 días hay un 0,0% que el equipo 1 complete la tarea
@@ -20,6 +23,6 @@ Un equip de desenvolupament té el següent comportament
     Es cuando la empresa tiene suficientes datos para estimar lo que tarda cada equipo en trabajar y en realizar una tarea
 
 ## 2: LeadTime Distribution
+![Equipo 2 estadistica 1](forecastingequipo2,1.png)
 
-   ![Equipo 2 estadistica 1](forecastingequipo2,1.png)
-   ![Equipo 2 estadistica 2](forecastingequipo2,2.png)
+![Equipo 2 estadistica 2](forecastingequipo2,2.png)
